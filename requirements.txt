@@ -1,0 +1,5 @@
+networkx==2.2
+openpyxl==2.5.8
+matplotlib==3.0.0
+graphviz==0.9
+pydot==1.2.4
